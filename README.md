@@ -141,6 +141,10 @@ npm start
 - **Why**: Static content that rarely changes
 - **File**: `app/about/page.tsx`
 
+## SCREENSHOT
+![homepage]![alt text](image.png)
+![blog]![alt text](image-1.png)
+![About]![alt text](image-2.png)
 ## Deployment
 
 LIVE DEMO: https://next-project-phi-six.vercel.app/

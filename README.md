@@ -129,7 +129,7 @@ npm start
 ### Individual Blog Posts
 - **Method**: Static Site Generation (SSG)
 - **Why**: Content doesn't change, pre-rendered at build time
-- **File**: `app/blog/[slug]/page.tsx`
+- **File**: `app/blog files
 
 ### Home Page
 - **Method**: Server-Side Rendering (SSR)

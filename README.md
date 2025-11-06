@@ -143,12 +143,12 @@ npm start
 
 ## Deployment
 
-Deploy to Vercel with one click:
+LIVE DEMO: https://next-project-phi-six.vercel.app/
 
-\`\`\`bash
-npm run build
-vercel
-\`\`\`
+
+## Github repository clone:
+
+https://github.com/Boldecca/next-project.git
 
 ## Learning Resources
 
@@ -163,5 +163,5 @@ MIT
 
 ## Author
 
-Created as an educational project demonstrating Next.js 16 rendering techniques.
-# next-project
+MUTETERI Rebecca
+

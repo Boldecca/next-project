@@ -157,9 +157,6 @@ https://github.com/Boldecca/next-project.git
 - [Tailwind CSS](https://tailwindcss.com)
 - [shadcn/ui](https://ui.shadcn.com)
 
-## License
-
-MIT
 
 ## Author
 
